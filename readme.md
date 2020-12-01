@@ -7,7 +7,7 @@ O sistema tem a seguinte divisão:
 
 # Para escalar algum serviço:
 
-docker-compose up -d --scale <nome_servico> = <quantidade>
+docker-compose up -d --scale <nome_servico> = quantidade
 
 Exemplo:
 
